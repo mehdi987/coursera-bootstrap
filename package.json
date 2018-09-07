@@ -1,0 +1,33 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "coursera online course",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehdi987/coursera-bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "coursera"
+  ],
+  "author": "Mahdi Moradi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehdi987/coursera-bootstrap/issues"
+  },
+  "homepage": "https://github.com/mehdi987/coursera-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
